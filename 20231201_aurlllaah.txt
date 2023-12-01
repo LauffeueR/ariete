@@ -14,7 +14,7 @@ INSTALAR NODE
 
 VISUAL STUDIO -> CONSOLE -> NEW GIT BASH
 
-ESCOLHER REPOSITÓRIO
+ESCOLHER REPOSITï¿½RIO
 
 git clone https://github.com/LauffeueR/ariete
 
@@ -44,13 +44,13 @@ git status
 
 commit - arquivo pronto para ser enviado
 
-.gitignore - .pdf - qualquer arquivo extensão .pdf será ignorado
+.gitignore - .pdf - qualquer arquivo extensï¿½o .pdf serï¿½ ignorado
 
 git add
 
 git config -l
 
-git config --global [ação]
+git config --global [aï¿½ï¿½o]
 
 git config --global user.name LauffeueR
 
@@ -69,4 +69,6 @@ novamente: git status
 git push
 
 logar no github
+
+Source control (negÃ³ciozinho que parece um garfo ali do lado esquerdo.)
 
