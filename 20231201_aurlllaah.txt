@@ -1,0 +1,72 @@
+GIT
+
+BAIXAR O GIT - GIT FOR WINDOWS
+
+NODE
+
+BAIXAR O NODE
+
+INSTALAR GIT
+
+-> USE VISUAL STUDIO CODE AS GIT'S DEFAULT EDITOR
+
+INSTALAR NODE
+
+VISUAL STUDIO -> CONSOLE -> NEW GIT BASH
+
+ESCOLHER REPOSITÓRIO
+
+git clone https://github.com/LauffeueR/ariete
+
+pwd
+
+c/users/usuarionome
+
+ls (lista)
+
+cd ariete/
+
+code .
+
+npm install
+
+pasta - src
+
+src/index.js
+
+index.js -> console.log('teste');
+
+new file -> raiz projeto -> .gitignore
+
+/node_modules
+
+git status
+
+commit - arquivo pronto para ser enviado
+
+.gitignore - .pdf - qualquer arquivo extensão .pdf será ignorado
+
+git add
+
+git config -l
+
+git config --global [ação]
+
+git config --global user.name LauffeueR
+
+git config --global user.email lowfire@outlook.com.br
+
+git add .gitignore
+git add src/
+gid add package-lock.json
+
+git commit -m "Adicionando arquivo .gitignore."
+
+novamente: git status
+
+"your branch is ahead of 'origin' by 1 commit"
+
+git push
+
+logar no github
+
