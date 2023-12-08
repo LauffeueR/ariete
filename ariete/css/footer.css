@@ -1,0 +1,13 @@
+footer {
+	background-color: #171717 ;
+    color:#fff;
+	text-align: center;
+	font-size:12px;
+	line-height:12px;
+	padding:5px;
+	position: fixed;
+	left: 50%;
+	bottom:0%;
+	transform: translate(-50%, -0%);
+	font-family:"Lucida Console", monospace;
+}

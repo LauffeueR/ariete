@@ -1,0 +1,16 @@
+.header {
+	text-align:center;
+}
+.header img{
+	width: 25%;
+}
+
+
+@media(max-width:750px){
+
+.header img{
+	width: 50%;
+}
+
+
+}

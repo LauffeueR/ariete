@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	/* box-sizing: border-box; */
+	/* text-align: center; */
+	/* align-items: center; */
+	/* justify-content: center; */
+	/* justifica as labels */
+}
+
+
+
+#zonelog {
+	padding:15px;
+	display:flex;
+}
+
+#map {
+	padding:10px;
+}
+
+#leftopt {
+	margin-right:5px;
+	padding:15px;
+	display: flex;
+	flex-direction: column;
+	float: left;
+	height: 0 auto;
+	width: 180px;
+}
+
+#leftopt a {
+	margin-top: 15px;
+}
+
